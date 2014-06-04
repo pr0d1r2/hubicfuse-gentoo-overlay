@@ -1,0 +1,11 @@
+<repositories version="1.0">
+	<repo quality="experimental" status="unofficial">
+		<name>hubicfuse</name>
+		<description lang="en">Gentoo overlay with hubicfuse (HubicFuse is a FUSE application which provides access to Hubic's cloud files via a mount-point)</description>
+		<homepage>https://github.com/pr0d1r2/hubicfuse-gentoo-overlay</homepage>
+		<owner type="person">
+			<name>Marcin Nowicki</name>
+		</owner>
+		<source type="git">git://github.com/pr0d1r2/hubicfuse-gentoo-overlay.git</source>
+	</repo>
+</repositories>
