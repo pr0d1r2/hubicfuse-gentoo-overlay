@@ -20,6 +20,6 @@ dev-libs/libxml2
 dev-libs/openssl
 net-misc/curl
 sys-fs/fuse
-=dev-libs/json-c-0.10-r1
+dev-libs/json-c
 "
 DEPEND="${RDEPEND}"
